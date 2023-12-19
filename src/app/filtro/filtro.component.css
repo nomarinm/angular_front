@@ -1,0 +1,16 @@
+mat-form-field {
+  width: 220px;
+  height: max-content;
+}
+
+mat-label {
+  font-size: 1em;
+}
+
+mat-select {
+  font-size: .8em;
+}
+
+mat-option {
+  font-size: .9em;
+}
